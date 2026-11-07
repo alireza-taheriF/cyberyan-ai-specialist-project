@@ -1,0 +1,1267 @@
+[
+  {
+    "profile_id": "p01",
+    "public_identifier": "amir-hosseini-ai-lead",
+    "full_name": "Dr. Amir Hosseini",
+    "headline": "VP of Artificial Intelligence & Principal ML Architect at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "VP of Artificial Intelligence",
+    "department": "AI & Core Research",
+    "seniority": "Executive",
+    "location": "Tehran, Iran (Remote)",
+    "about": "Leading applied AI research, large language model alignment, and graph intelligence systems at CyberyanTech. 10+ years of experience scaling distributed ML pipelines and mentoring AI engineering teams.",
+    "connections_count": 2450,
+    "followers_count": 8920,
+    "experiences": [
+      {
+        "title": "VP of Artificial Intelligence",
+        "company": "CyberyanTech",
+        "start_date": "2023-01",
+        "end_date": "Present",
+        "duration_months": 36,
+        "location": "Tehran, Iran",
+        "description": "Architecting enterprise LLM platforms, knowledge graphs, and multi-agent orchestration pipelines."
+      },
+      {
+        "title": "Principal Machine Learning Scientist",
+        "company": "ParsCloud AI",
+        "start_date": "2019-06",
+        "end_date": "2022-12",
+        "duration_months": 42,
+        "location": "Tehran, Iran",
+        "description": "Designed deep representation learning models and real-time recommendation engines for 15M+ active users."
+      },
+      {
+        "title": "Senior Data Scientist",
+        "company": "RayanData Systems",
+        "start_date": "2017-02",
+        "end_date": "2019-05",
+        "duration_months": 27,
+        "location": "Tehran, Iran",
+        "description": "Built predictive fraud detection and graph anomaly detection models."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Sharif University of Technology",
+        "degree": "Ph.D.",
+        "field_of_study": "Artificial Intelligence & Machine Learning",
+        "start_year": 2013,
+        "end_year": 2018
+      },
+      {
+        "school": "Sharif University of Technology",
+        "degree": "M.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2011,
+        "end_year": 2013
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Large Language Models (LLMs)",
+      "Graph Neural Networks",
+      "Machine Learning",
+      "MLOps",
+      "Distributed Systems",
+      "Natural Language Processing",
+      "System Architecture",
+      "Deep Learning"
+    ],
+    "interests": [
+      {
+        "name": "DeepMind",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "Hugging Face",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "Graph Machine Learning Community",
+        "category": "Group",
+        "type": "Member"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p01_1",
+        "type": "post",
+        "content": "Thrilled to share our new Graph-RAG architecture at CyberyanTech combining structural centrality with dense embeddings! Huge thanks to @SaraRahimi and @RezaKarimi for the late-night benchmarks.",
+        "timestamp": "2026-10-28T10:15:00Z",
+        "likes_count": 342,
+        "comments_count": 48,
+        "interacted_with": [
+          "p02",
+          "p03",
+          "p05"
+        ],
+        "hashtags": [
+          "#GraphRAG",
+          "#LLM",
+          "#ArtificialIntelligence",
+          "#CyberyanTech"
+        ]
+      },
+      {
+        "activity_id": "act_p01_2",
+        "type": "comment",
+        "content": "Great breakdown of Kafka partitioning for feature stores @MehdiAhmadi! Deterministic key routing really cut our p99 latency.",
+        "timestamp": "2026-10-30T14:20:00Z",
+        "likes_count": 64,
+        "comments_count": 9,
+        "interacted_with": [
+          "p04",
+          "p06"
+        ],
+        "hashtags": [
+          "#Kafka",
+          "#DataEngineering",
+          "#MLOps"
+        ]
+      },
+      {
+        "activity_id": "act_p01_3",
+        "type": "reaction",
+        "content": "Reacted to Negin Tavakoli's post on Persian NLP tokenization benchmarks and morphological evaluation.",
+        "timestamp": "2026-11-02T09:05:00Z",
+        "likes_count": 118,
+        "comments_count": 19,
+        "interacted_with": [
+          "p07",
+          "p09"
+        ],
+        "hashtags": [
+          "#PersianNLP",
+          "#Tokenization",
+          "#NLP"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p02",
+    "public_identifier": "sara-rahimi-nlp",
+    "full_name": "Sara Rahimi",
+    "headline": "Lead NLP Scientist & LLM Alignment Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Lead NLP Scientist",
+    "department": "AI & Core Research",
+    "seniority": "Lead",
+    "location": "Tehran, Iran",
+    "about": "Passionate about Persian and multilingual NLP, retrieval-augmented generation (RAG), and fine-tuning transformer architectures via RLHF/DPO.",
+    "connections_count": 1680,
+    "followers_count": 4310,
+    "experiences": [
+      {
+        "title": "Lead NLP Scientist",
+        "company": "CyberyanTech",
+        "start_date": "2023-03",
+        "end_date": "Present",
+        "duration_months": 34,
+        "location": "Tehran, Iran",
+        "description": "Leading RAG evaluation pipelines, semantic search indexing, and Persian LLM instruction tuning."
+      },
+      {
+        "title": "Senior NLP Researcher",
+        "company": "ParsCloud AI",
+        "start_date": "2020-08",
+        "end_date": "2023-02",
+        "duration_months": 30,
+        "location": "Tehran, Iran",
+        "description": "Developed multilingual named entity recognition and conversational dialogue systems."
+      }
+    ],
+    "educations": [
+      {
+        "school": "University of Tehran",
+        "degree": "M.Sc.",
+        "field_of_study": "Artificial Intelligence",
+        "start_year": 2018,
+        "end_year": 2020
+      },
+      {
+        "school": "Amirkabir University of Technology",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Natural Language Processing",
+      "Large Language Models (LLMs)",
+      "Transformers",
+      "RAG",
+      "Vector Databases",
+      "Deep Learning",
+      "Semantic Search"
+    ],
+    "interests": [
+      {
+        "name": "Association for Computational Linguistics (ACL)",
+        "category": "Organization",
+        "type": "Member"
+      },
+      {
+        "name": "Hugging Face",
+        "category": "Company",
+        "type": "Follower"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p02_1",
+        "type": "post",
+        "content": "Published our internal evaluation benchmarks on hybrid BM25 + dense vector retrieval for Persian legal and technical corpora. Collaborating with @AmirHosseini and @NeginTavakoli!",
+        "timestamp": "2026-10-29T11:40:00Z",
+        "likes_count": 215,
+        "comments_count": 31,
+        "interacted_with": [
+          "p01",
+          "p07",
+          "p08"
+        ],
+        "hashtags": [
+          "#NLP",
+          "#RAG",
+          "#VectorSearch",
+          "#PersianAI"
+        ]
+      },
+      {
+        "activity_id": "act_p02_2",
+        "type": "comment",
+        "content": "Totally agree @RezaKarimi — combining node centrality scores with semantic embeddings improves context reranking by 14%.",
+        "timestamp": "2026-11-01T16:10:00Z",
+        "likes_count": 49,
+        "comments_count": 7,
+        "interacted_with": [
+          "p03",
+          "p01"
+        ],
+        "hashtags": [
+          "#GraphML",
+          "#Embeddings",
+          "#Reranking"
+        ]
+      },
+      {
+        "activity_id": "act_p02_3",
+        "type": "repost",
+        "content": "Reposted Farhad Kiani's product roadmap update for CyberyanTech's enterprise AI copilot.",
+        "timestamp": "2026-11-03T13:00:00Z",
+        "likes_count": 88,
+        "comments_count": 12,
+        "interacted_with": [
+          "p09",
+          "p05"
+        ],
+        "hashtags": [
+          "#AIProduct",
+          "#EnterpriseAI"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p03",
+    "public_identifier": "reza-karimi-graphml",
+    "full_name": "Reza Karimi",
+    "headline": "Senior Graph ML & Knowledge Graph Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Senior Graph ML Engineer",
+    "department": "AI & Core Research",
+    "seniority": "Senior",
+    "location": "Isfahan, Iran (Remote)",
+    "about": "Specializing in complex network analysis, centrality algorithms, community detection, and knowledge graph construction over massive enterprise datasets.",
+    "connections_count": 1420,
+    "followers_count": 3190,
+    "experiences": [
+      {
+        "title": "Senior Graph ML Engineer",
+        "company": "CyberyanTech",
+        "start_date": "2023-05",
+        "end_date": "Present",
+        "duration_months": 32,
+        "location": "Isfahan, Iran",
+        "description": "Building organizational network graphs, influence scoring pipelines, and Neo4j/NetworkX analytics modules."
+      },
+      {
+        "title": "Data Scientist — Network Analytics",
+        "company": "RayanData Systems",
+        "start_date": "2020-02",
+        "end_date": "2023-04",
+        "duration_months": 38,
+        "location": "Tehran, Iran",
+        "description": "Implemented PageRank and Louvain community detection for telecom social graphs."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Amirkabir University of Technology",
+        "degree": "M.Sc.",
+        "field_of_study": "Computer Science (Complex Networks)",
+        "start_year": 2018,
+        "end_year": 2020
+      },
+      {
+        "school": "Isfahan University of Technology",
+        "degree": "B.Sc.",
+        "field_of_study": "Software Engineering",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "Graph Neural Networks",
+      "Complex Networks",
+      "Neo4j",
+      "Machine Learning",
+      "PageRank & Centrality",
+      "Data Visualization",
+      "SciPy & NumPy"
+    ],
+    "interests": [
+      {
+        "name": "Neo4j",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "Network Science Society",
+        "category": "Organization",
+        "type": "Member"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p03_1",
+        "type": "post",
+        "content": "Why Betweenness Centrality matters more than raw connection counts in organizational graphs: bridges between engineering and product teams drive 3x faster knowledge transfer!",
+        "timestamp": "2026-10-27T15:30:00Z",
+        "likes_count": 190,
+        "comments_count": 29,
+        "interacted_with": [
+          "p01",
+          "p02",
+          "p04",
+          "p09"
+        ],
+        "hashtags": [
+          "#NetworkScience",
+          "#Centrality",
+          "#OrgNetwork",
+          "#GraphAnalytics"
+        ]
+      },
+      {
+        "activity_id": "act_p03_2",
+        "type": "comment",
+        "content": "Awesome visualization pipeline @kaveh-rostami! Exporting the adjacency matrix to interactive JSON makes inspection effortless.",
+        "timestamp": "2026-10-31T18:00:00Z",
+        "likes_count": 41,
+        "comments_count": 5,
+        "interacted_with": [
+          "p08",
+          "p04"
+        ],
+        "hashtags": [
+          "#DataViz",
+          "#GraphJSON"
+        ]
+      },
+      {
+        "activity_id": "act_p03_3",
+        "type": "reaction",
+        "content": "Liked Mehdi Ahmadi's post on high-throughput Kafka consumers for streaming graph edge updates.",
+        "timestamp": "2026-11-04T08:45:00Z",
+        "likes_count": 73,
+        "comments_count": 11,
+        "interacted_with": [
+          "p04",
+          "p06"
+        ],
+        "hashtags": [
+          "#StreamingGraphs",
+          "#Kafka"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p04",
+    "public_identifier": "mehdi-ahmadi-dataeng",
+    "full_name": "Mehdi Ahmadi",
+    "headline": "Principal Data & Distributed Systems Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Principal Data Engineer",
+    "department": "Data & Platform Engineering",
+    "seniority": "Lead",
+    "location": "Tehran, Iran",
+    "about": "Designing fault-tolerant data ingestion pipelines, Apache Kafka event streams, Redis task queues, and Lakehouse storage architectures for petabyte-scale AI workloads.",
+    "connections_count": 1950,
+    "followers_count": 5120,
+    "experiences": [
+      {
+        "title": "Principal Data Engineer",
+        "company": "CyberyanTech",
+        "start_date": "2023-02",
+        "end_date": "Present",
+        "duration_months": 35,
+        "location": "Tehran, Iran",
+        "description": "Leading real-time web extraction queues (Kafka/Redis), ClickHouse analytical tables, and MinIO/Parquet data lakes."
+      },
+      {
+        "title": "Senior Backend & Data Engineer",
+        "company": "Digikala Tech",
+        "start_date": "2019-09",
+        "end_date": "2023-01",
+        "duration_months": 40,
+        "location": "Tehran, Iran",
+        "description": "Scaled real-time clickstream ingestion to 120k events/sec using Kafka and Apache Spark."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Sharif University of Technology",
+        "degree": "M.Sc.",
+        "field_of_study": "Software Engineering & Distributed Systems",
+        "start_year": 2017,
+        "end_year": 2019
+      },
+      {
+        "school": "Sharif University of Technology",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2013,
+        "end_year": 2017
+      }
+    ],
+    "skills": [
+      "Python",
+      "Go",
+      "Apache Kafka",
+      "Redis",
+      "Distributed Systems",
+      "PostgreSQL",
+      "ClickHouse",
+      "Data Engineering",
+      "Docker & Kubernetes"
+    ],
+    "interests": [
+      {
+        "name": "Confluent",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "Cloud Native Computing Foundation (CNCF)",
+        "category": "Organization",
+        "type": "Follower"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p04_1",
+        "type": "post",
+        "content": "How we process 5M+ public profile updates daily without getting rate-limited: Token Bucket limiters in Redis + partitioned Kafka topics + Parquet lakehouse tiers.",
+        "timestamp": "2026-10-30T09:30:00Z",
+        "likes_count": 284,
+        "comments_count": 42,
+        "interacted_with": [
+          "p01",
+          "p05",
+          "p06",
+          "p10"
+        ],
+        "hashtags": [
+          "#DataEngineering",
+          "#Kafka",
+          "#Redis",
+          "#RateLimiting"
+        ]
+      },
+      {
+        "activity_id": "act_p04_2",
+        "type": "comment",
+        "content": "Spot on @AliMoradi! Adding circuit breakers to our proxy rotation pool reduced upstream 429 errors by 92%.",
+        "timestamp": "2026-11-01T12:15:00Z",
+        "likes_count": 57,
+        "comments_count": 8,
+        "interacted_with": [
+          "p06",
+          "p05"
+        ],
+        "hashtags": [
+          "#WebScraping",
+          "#DistributedSystems"
+        ]
+      },
+      {
+        "activity_id": "act_p04_3",
+        "type": "reaction",
+        "content": "Liked Reza Karimi's post on exporting streaming event logs into Neo4j graph projections.",
+        "timestamp": "2026-11-03T17:40:00Z",
+        "likes_count": 91,
+        "comments_count": 14,
+        "interacted_with": [
+          "p03",
+          "p08"
+        ],
+        "hashtags": [
+          "#Neo4j",
+          "#EventDriven"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p05",
+    "public_identifier": "mina-sadeghi-mlops",
+    "full_name": "Mina Sadeghi",
+    "headline": "Senior MLOps & Cloud Infrastructure Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Senior MLOps Engineer",
+    "department": "Data & Platform Engineering",
+    "seniority": "Senior",
+    "location": "Tehran, Iran",
+    "about": "Bridging the gap between AI research and production reliability. Focused on Kubernetes GPU scheduling, model serving, CI/CD for ML, and observability.",
+    "connections_count": 1310,
+    "followers_count": 2890,
+    "experiences": [
+      {
+        "title": "Senior MLOps Engineer",
+        "company": "CyberyanTech",
+        "start_date": "2023-06",
+        "end_date": "Present",
+        "duration_months": 31,
+        "location": "Tehran, Iran",
+        "description": "Managing Triton/vLLM inference clusters, automated model evaluation gates, and feature store pipelines."
+      },
+      {
+        "title": "DevOps & Platform Engineer",
+        "company": "Snapp! Tech",
+        "start_date": "2020-04",
+        "end_date": "2023-05",
+        "duration_months": 37,
+        "location": "Tehran, Iran",
+        "description": "Maintained high-availability Kubernetes clusters and Prometheus/Grafana monitoring stacks."
+      }
+    ],
+    "educations": [
+      {
+        "school": "K. N. Toosi University of Technology",
+        "degree": "M.Sc.",
+        "field_of_study": "Computer Systems Architecture",
+        "start_year": 2018,
+        "end_year": 2020
+      },
+      {
+        "school": "Shahid Beheshti University",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "MLOps",
+      "Docker & Kubernetes",
+      "CI/CD",
+      "Redis",
+      "Distributed Systems",
+      "System Architecture",
+      "Linux & Observability"
+    ],
+    "interests": [
+      {
+        "name": "MLOps Community",
+        "category": "Group",
+        "type": "Member"
+      },
+      {
+        "name": "Kubernetes",
+        "category": "Organization",
+        "type": "Follower"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p05_1",
+        "type": "post",
+        "content": "Automated verification gates in ML pipelines save weeks of debugging. Every model and graph update at CyberyanTech now passes deterministic schema and metric checks before deployment!",
+        "timestamp": "2026-10-28T16:50:00Z",
+        "likes_count": 176,
+        "comments_count": 24,
+        "interacted_with": [
+          "p01",
+          "p04",
+          "p10"
+        ],
+        "hashtags": [
+          "#MLOps",
+          "#ContinuousVerification",
+          "#Kubernetes"
+        ]
+      },
+      {
+        "activity_id": "act_p05_2",
+        "type": "comment",
+        "content": "Great collaboration with @SaraRahimi on quantizing our Persian embedding models for 3x faster CPU/GPU inference.",
+        "timestamp": "2026-11-01T10:05:00Z",
+        "likes_count": 52,
+        "comments_count": 6,
+        "interacted_with": [
+          "p02",
+          "p07"
+        ],
+        "hashtags": [
+          "#ModelServing",
+          "#NLP"
+        ]
+      },
+      {
+        "activity_id": "act_p05_3",
+        "type": "reaction",
+        "content": "Liked Maryam Nouri's post on container security scanning and zero-trust secrets management.",
+        "timestamp": "2026-11-04T11:30:00Z",
+        "likes_count": 68,
+        "comments_count": 9,
+        "interacted_with": [
+          "p10",
+          "p04"
+        ],
+        "hashtags": [
+          "#DevSecOps",
+          "#CloudSecurity"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p06",
+    "public_identifier": "ali-moradi-scraping-infra",
+    "full_name": "Ali Moradi",
+    "headline": "Senior Backend & Web Data Extraction Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Senior Data Extraction Engineer",
+    "department": "Data & Platform Engineering",
+    "seniority": "Senior",
+    "location": "Mashhad, Iran (Remote)",
+    "about": "Expert in high-scale web crawling, anti-bot evasion, asynchronous Python/Go collectors, browser automation (Playwright), and distributed Redis/Kafka task queues.",
+    "connections_count": 1190,
+    "followers_count": 2450,
+    "experiences": [
+      {
+        "title": "Senior Data Extraction Engineer",
+        "company": "CyberyanTech",
+        "start_date": "2023-07",
+        "end_date": "Present",
+        "duration_months": 30,
+        "location": "Mashhad, Iran",
+        "description": "Developing resilient public profile crawlers, adaptive rate limiters, and HTML schema validators."
+      },
+      {
+        "title": "Backend Software Engineer",
+        "company": "Divar Tech",
+        "start_date": "2020-05",
+        "end_date": "2023-06",
+        "duration_months": 37,
+        "location": "Tehran, Iran",
+        "description": "Built high-concurrency microservices in Go and Python with Redis caching."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Ferdowsi University of Mashhad",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Software Engineering",
+        "start_year": 2016,
+        "end_year": 2020
+      }
+    ],
+    "skills": [
+      "Python",
+      "Go",
+      "Web Scraping & Crawling",
+      "HTTP & TLS Fingerprinting",
+      "Redis",
+      "Apache Kafka",
+      "PostgreSQL",
+      "Asynchronous Programming"
+    ],
+    "interests": [
+      {
+        "name": "Scrapy & Playwright Developers",
+        "category": "Group",
+        "type": "Member"
+      },
+      {
+        "name": "Cloudflare",
+        "category": "Company",
+        "type": "Follower"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p06_1",
+        "type": "post",
+        "content": "Lesson learned from scaling web crawlers: static delays fail under bursty load. Adaptive Token Bucket + Exponential Backoff with Full Jitter + session cookie hygiene is the golden standard.",
+        "timestamp": "2026-10-31T08:20:00Z",
+        "likes_count": 205,
+        "comments_count": 35,
+        "interacted_with": [
+          "p04",
+          "p01",
+          "p10"
+        ],
+        "hashtags": [
+          "#WebScraping",
+          "#RateLimiting",
+          "#Python",
+          "#Golang"
+        ]
+      },
+      {
+        "activity_id": "act_p06_2",
+        "type": "comment",
+        "content": "Thanks @MehdiAhmadi! Integrating our scraper workers directly with Kafka dead-letter queues made failed parse recovery 100% deterministic.",
+        "timestamp": "2026-11-02T14:50:00Z",
+        "likes_count": 46,
+        "comments_count": 6,
+        "interacted_with": [
+          "p04",
+          "p03"
+        ],
+        "hashtags": [
+          "#Kafka",
+          "#DLQ",
+          "#DataPipelines"
+        ]
+      },
+      {
+        "activity_id": "act_p06_3",
+        "type": "reaction",
+        "content": "Liked Kaveh Rostami's post on parsing structured JSON-LD and DOM trees into clean Pandas DataFrames.",
+        "timestamp": "2026-11-04T15:10:00Z",
+        "likes_count": 59,
+        "comments_count": 8,
+        "interacted_with": [
+          "p08",
+          "p07"
+        ],
+        "hashtags": [
+          "#Pandas",
+          "#DataCleaning"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p07",
+    "public_identifier": "negin-tavakoli-cv-nlp",
+    "full_name": "Negin Tavakoli",
+    "headline": "Machine Learning Scientist (Multimodal & NLP) at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Machine Learning Scientist",
+    "department": "AI & Core Research",
+    "seniority": "Mid-Senior",
+    "location": "Shiraz, Iran (Remote)",
+    "about": "Researching multimodal representation learning, document layout understanding, OCR post-processing, and semantic skill clustering.",
+    "connections_count": 1080,
+    "followers_count": 2140,
+    "experiences": [
+      {
+        "title": "Machine Learning Scientist",
+        "company": "CyberyanTech",
+        "start_date": "2024-01",
+        "end_date": "Present",
+        "duration_months": 24,
+        "location": "Shiraz, Iran",
+        "description": "Developing TF-IDF + Transformer skill taxonomy clustering and document intelligence models."
+      },
+      {
+        "title": "AI Research Engineer",
+        "company": "ParsCloud AI",
+        "start_date": "2021-07",
+        "end_date": "2023-12",
+        "duration_months": 29,
+        "location": "Tehran, Iran",
+        "description": "Trained vision-language models for automated resume and PDF parsing."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Shiraz University",
+        "degree": "M.Sc.",
+        "field_of_study": "Artificial Intelligence",
+        "start_year": 2019,
+        "end_year": 2021
+      },
+      {
+        "school": "Shiraz University",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2015,
+        "end_year": 2019
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Transformers",
+      "Feature Engineering",
+      "Unsupervised Clustering",
+      "Deep Learning"
+    ],
+    "interests": [
+      {
+        "name": "Papers With Code",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "Women in Machine Learning (WiML)",
+        "category": "Organization",
+        "type": "Member"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p07_1",
+        "type": "post",
+        "content": "Unsupervised skill clustering across engineering profiles reveals hidden cross-functional synergies! Using TF-IDF + Cosine similarity + KMeans++ gave us super clean role clusters.",
+        "timestamp": "2026-10-29T13:25:00Z",
+        "likes_count": 162,
+        "comments_count": 22,
+        "interacted_with": [
+          "p01",
+          "p02",
+          "p03"
+        ],
+        "hashtags": [
+          "#MachineLearning",
+          "#Clustering",
+          "#TalentAnalytics",
+          "#NLP"
+        ]
+      },
+      {
+        "activity_id": "act_p07_2",
+        "type": "comment",
+        "content": "Loved working with @SaraRahimi on normalizing bilingual skill taxonomies for our internal talent graph!",
+        "timestamp": "2026-11-01T19:00:00Z",
+        "likes_count": 44,
+        "comments_count": 5,
+        "interacted_with": [
+          "p02",
+          "p09"
+        ],
+        "hashtags": [
+          "#SkillGraph",
+          "#NLP"
+        ]
+      },
+      {
+        "activity_id": "act_p07_3",
+        "type": "reaction",
+        "content": "Liked Kaveh Rostami's post on interactive cluster silhouette diagnostics.",
+        "timestamp": "2026-11-03T10:15:00Z",
+        "likes_count": 51,
+        "comments_count": 7,
+        "interacted_with": [
+          "p08",
+          "p05"
+        ],
+        "hashtags": [
+          "#DataScience",
+          "#Evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p08",
+    "public_identifier": "kaveh-rostami-analytics",
+    "full_name": "Kaveh Rostami",
+    "headline": "Lead Data Analytics & Graph Visualization Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Lead Analytics Engineer",
+    "department": "Product & Analytics",
+    "seniority": "Lead",
+    "location": "Tehran, Iran",
+    "about": "Turning complex graph topologies and ML outputs into clear, executive-ready visual analytics and interactive dashboards.",
+    "connections_count": 1540,
+    "followers_count": 3480,
+    "experiences": [
+      {
+        "title": "Lead Analytics Engineer",
+        "company": "CyberyanTech",
+        "start_date": "2023-04",
+        "end_date": "Present",
+        "duration_months": 33,
+        "location": "Tehran, Iran",
+        "description": "Designing organizational network visualizations, executive KPI scorecards, and ClickHouse BI layers."
+      },
+      {
+        "title": "Senior BI & Data Analyst",
+        "company": "Digikala Tech",
+        "start_date": "2020-01",
+        "end_date": "2023-03",
+        "duration_months": 38,
+        "location": "Tehran, Iran",
+        "description": "Created executive analytics dashboards and cohort retention models."
+      }
+    ],
+    "educations": [
+      {
+        "school": "University of Tehran",
+        "degree": "M.Sc.",
+        "field_of_study": "Industrial Engineering & Data Analytics",
+        "start_year": 2018,
+        "end_year": 2020
+      },
+      {
+        "school": "University of Tehran",
+        "degree": "B.Sc.",
+        "field_of_study": "Industrial Engineering",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "Data Visualization",
+      "SciPy & NumPy",
+      "PostgreSQL",
+      "ClickHouse",
+      "PageRank & Centrality",
+      "Unsupervised Clustering",
+      "Product Analytics"
+    ],
+    "interests": [
+      {
+        "name": "Observable",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "Data Visualization Society",
+        "category": "Organization",
+        "type": "Member"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p08_1",
+        "type": "post",
+        "content": "Visualizing organizational centrality: when node size scales with PageRank and color encodes ML role clusters, communication bottlenecks jump right off the page!",
+        "timestamp": "2026-10-30T17:10:00Z",
+        "likes_count": 198,
+        "comments_count": 27,
+        "interacted_with": [
+          "p03",
+          "p09",
+          "p01"
+        ],
+        "hashtags": [
+          "#DataVisualization",
+          "#NetworkGraph",
+          "#PeopleAnalytics"
+        ]
+      },
+      {
+        "activity_id": "act_p08_2",
+        "type": "comment",
+        "content": "Thanks @RezaKarimi! Combining edge thickness with interaction frequency made the core-periphery structure super clear.",
+        "timestamp": "2026-11-01T20:30:00Z",
+        "likes_count": 39,
+        "comments_count": 4,
+        "interacted_with": [
+          "p03",
+          "p02"
+        ],
+        "hashtags": [
+          "#GraphViz",
+          "#NetworkScience"
+        ]
+      },
+      {
+        "activity_id": "act_p08_3",
+        "type": "repost",
+        "content": "Reposted Farhad Kiani's Q4 AI Analytics product release notes.",
+        "timestamp": "2026-11-04T12:00:00Z",
+        "likes_count": 77,
+        "comments_count": 10,
+        "interacted_with": [
+          "p09",
+          "p04"
+        ],
+        "hashtags": [
+          "#ProductAnalytics",
+          "#CyberyanTech"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p09",
+    "public_identifier": "farhad-kiani-aiproduct",
+    "full_name": "Farhad Kiani",
+    "headline": "Director of AI Product Management at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Director of AI Product",
+    "department": "Product & Analytics",
+    "seniority": "Executive",
+    "location": "Tehran, Iran",
+    "about": "Connecting AI research, data platform engineering, and enterprise customer value. Translating graph intelligence and LLM capabilities into scalable B2B products.",
+    "connections_count": 2890,
+    "followers_count": 7650,
+    "experiences": [
+      {
+        "title": "Director of AI Product",
+        "company": "CyberyanTech",
+        "start_date": "2023-01",
+        "end_date": "Present",
+        "duration_months": 36,
+        "location": "Tehran, Iran",
+        "description": "Leading product strategy, cross-functional alignment across AI Research and Data Platform teams, and enterprise delivery."
+      },
+      {
+        "title": "Senior Technical Product Manager",
+        "company": "Snapp! Tech",
+        "start_date": "2019-11",
+        "end_date": "2022-12",
+        "duration_months": 37,
+        "location": "Tehran, Iran",
+        "description": "Managed dispatch optimization and ML-driven ETA prediction products."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Sharif University of Technology",
+        "degree": "MBA",
+        "field_of_study": "Technology & Innovation Management",
+        "start_year": 2017,
+        "end_year": 2019
+      },
+      {
+        "school": "Amirkabir University of Technology",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2013,
+        "end_year": 2017
+      }
+    ],
+    "skills": [
+      "Product Analytics",
+      "AI Product Strategy",
+      "Agile & Cross-Functional Leadership",
+      "Data Visualization",
+      "Large Language Models (LLMs)",
+      "System Architecture",
+      "Graph Analytics"
+    ],
+    "interests": [
+      {
+        "name": "Silicon Valley Product Group (SVPG)",
+        "category": "Company",
+        "type": "Follower"
+      },
+      {
+        "name": "AI Product Managers Network",
+        "category": "Group",
+        "type": "Member"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p09_1",
+        "type": "post",
+        "content": "Why cross-team bridges are our superpower at CyberyanTech: syncing daily between @AmirHosseini's AI research group, @MehdiAhmadi's data platform team, and @KavehRostami's analytics squad!",
+        "timestamp": "2026-10-29T08:45:00Z",
+        "likes_count": 310,
+        "comments_count": 45,
+        "interacted_with": [
+          "p01",
+          "p04",
+          "p08",
+          "p02"
+        ],
+        "hashtags": [
+          "#AIProduct",
+          "#Leadership",
+          "#CrossFunctional",
+          "#CyberyanTech"
+        ]
+      },
+      {
+        "activity_id": "act_p09_2",
+        "type": "comment",
+        "content": "Incredible work @RezaKarimi and @NeginTavakoli on the organizational skill clustering module — customers are already asking for this feature!",
+        "timestamp": "2026-11-02T11:20:00Z",
+        "likes_count": 63,
+        "comments_count": 8,
+        "interacted_with": [
+          "p03",
+          "p07"
+        ],
+        "hashtags": [
+          "#EnterpriseAI",
+          "#PeopleAnalytics"
+        ]
+      },
+      {
+        "activity_id": "act_p09_3",
+        "type": "reaction",
+        "content": "Liked Maryam Nouri's post on GDPR-compliant data governance for public web intelligence.",
+        "timestamp": "2026-11-04T16:05:00Z",
+        "likes_count": 82,
+        "comments_count": 11,
+        "interacted_with": [
+          "p10",
+          "p05"
+        ],
+        "hashtags": [
+          "#AIGovernance",
+          "#DataPrivacy"
+        ]
+      }
+    ]
+  },
+  {
+    "profile_id": "p10",
+    "public_identifier": "maryam-nouri-aisec",
+    "full_name": "Maryam Nouri",
+    "headline": "Lead AI Security, Privacy & Data Governance Engineer at CyberyanTech",
+    "current_company": "CyberyanTech",
+    "current_role": "Lead AI Security & Governance Engineer",
+    "department": "Data & Platform Engineering",
+    "seniority": "Lead",
+    "location": "Tehran, Iran",
+    "about": "Securing AI data pipelines, enforcing PII anonymization in web-scale data collection, and hardening distributed Kafka/Kubernetes infrastructure.",
+    "connections_count": 1490,
+    "followers_count": 3320,
+    "experiences": [
+      {
+        "title": "Lead AI Security & Governance Engineer",
+        "company": "CyberyanTech",
+        "start_date": "2023-08",
+        "end_date": "Present",
+        "duration_months": 29,
+        "location": "Tehran, Iran",
+        "description": "Leading data privacy compliance, automated PII scrubbing in ingestion queues, and LLM red-teaming."
+      },
+      {
+        "title": "Senior Information Security Engineer",
+        "company": "RayanData Systems",
+        "start_date": "2020-03",
+        "end_date": "2023-07",
+        "duration_months": 40,
+        "location": "Tehran, Iran",
+        "description": "Designed API rate-limiting WAF rules, TLS fingerprinting defenses, and zero-trust data access layers."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Amirkabir University of Technology",
+        "degree": "M.Sc.",
+        "field_of_study": "Information Security & Cryptography",
+        "start_year": 2018,
+        "end_year": 2020
+      },
+      {
+        "school": "Shahid Beheshti University",
+        "degree": "B.Sc.",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "AI Security & Governance",
+      "HTTP & TLS Fingerprinting",
+      "Docker & Kubernetes",
+      "Distributed Systems",
+      "Linux & Observability",
+      "Data Engineering",
+      "CI/CD"
+    ],
+    "interests": [
+      {
+        "name": "OWASP Foundation",
+        "category": "Organization",
+        "type": "Member"
+      },
+      {
+        "name": "Cloud Security Alliance",
+        "category": "Organization",
+        "type": "Follower"
+      }
+    ],
+    "activities": [
+      {
+        "activity_id": "act_p10_1",
+        "type": "post",
+        "content": "Building ethical and compliant data pipelines: how we enforce schema validation, PII hashing, and rate-limit compliance at the Kafka ingestion edge with @MehdiAhmadi and @AliMoradi.",
+        "timestamp": "2026-10-31T14:00:00Z",
+        "likes_count": 185,
+        "comments_count": 26,
+        "interacted_with": [
+          "p04",
+          "p06",
+          "p05"
+        ],
+        "hashtags": [
+          "#AISecurity",
+          "#DataGovernance",
+          "#Kafka",
+          "#CyberyanTech"
+        ]
+      },
+      {
+        "activity_id": "act_p10_2",
+        "type": "comment",
+        "content": "Great point @MinaSadeghi — integrating automated security and schema gates directly into our CI/CD loop prevents silent regressions.",
+        "timestamp": "2026-11-02T17:30:00Z",
+        "likes_count": 47,
+        "comments_count": 6,
+        "interacted_with": [
+          "p05",
+          "p01"
+        ],
+        "hashtags": [
+          "#DevSecOps",
+          "#MLOps"
+        ]
+      },
+      {
+        "activity_id": "act_p10_3",
+        "type": "reaction",
+        "content": "Liked Farhad Kiani's post on enterprise readiness and security certifications for CyberyanTech's AI platform.",
+        "timestamp": "2026-11-04T19:20:00Z",
+        "likes_count": 74,
+        "comments_count": 9,
+        "interacted_with": [
+          "p09",
+          "p01"
+        ],
+        "hashtags": [
+          "#EnterpriseSecurity",
+          "#AIProduct"
+        ]
+      }
+    ]
+  }
+]

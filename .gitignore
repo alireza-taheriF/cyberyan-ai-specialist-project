@@ -1,0 +1,8 @@
+.browser_profile/
+raw_live/
+dist/
+__pycache__/
+.venv/
+.DS_Store
+*.pyc
+.pytest_cache/

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Profile Page Saver",
+  "version": "2.0",
+  "description": "Reads the profile pages queued by the local project (python run.py) in this browser, or saves the open profile page when you click the button.",
+  "permissions": ["activeTab", "scripting", "downloads", "tabs", "alarms"],
+  "host_permissions": ["https://www.linkedin.com/*", "http://127.0.0.1:8765/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Save this profile page" }
+}
